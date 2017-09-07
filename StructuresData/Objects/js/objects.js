@@ -1,1 +1,1 @@
-"use strict";alert test
+"use strict";alert test2
